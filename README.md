@@ -2,10 +2,10 @@
 <h3 align="center">DevOps Enthusiast | AWS | Docker | Linux | Terraform | Kubernetes</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link/">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rabiya-akram-8886a224a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rabiya@example.com">
+  <a href="mailto:rabiyaakram57@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
