@@ -113,11 +113,6 @@ I'm **Rabiya**, a passionate DevOps enthusiast focused on **automation**, **clou
 
 ---
 
-## 🎯 Goals for 2025
-- Become a full DevOps Engineer  
-- Deploy Kubernetes applications  
-- Build strong CI/CD pipelines  
-- Contribute to open-source DevOps tools  
 
 ---
 
