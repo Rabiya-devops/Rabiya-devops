@@ -47,7 +47,7 @@ I'm **Rabiya**, a passionate DevOps enthusiast focused on **automation**, **clou
 
 ## 🚀 Featured Projects
 
-### **1️⃣ DockNexus – Two-Tier Web Application (Docker + Jenkins CI/CD)**
+### **1️⃣ FlaskDockNexus – Two-Tier Web Application (Docker + Jenkins CI/CD)**
 **Tech:** Docker • Jenkins • EC2 • MySQL  
 - Built a production-grade **Two-Tier Architecture** (Web + DB).
 - Containerized the app using Docker.
